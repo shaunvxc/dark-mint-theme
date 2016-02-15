@@ -37,8 +37,8 @@
  '(apropos-keybinding-face ((t (:underline t))))
  '(apropos-label-face ((t (:italic t))))
 
- '(font-lock-type-face ((t (:foreground "MintCream"))))
- '(font-lock-comment-face ((t (:foreground "light slate blue"))))
+ '(font-lock-type-face ((t (:foreground "light slate blue"))))
+ '(font-lock-comment-face ((t (:foreground "MintCream"))))
  '(font-lock-function-name-face ((t (:foreground "VioletRed2"))))
  '(font-lock-keyword-face ((t (:weight bold :foreground "cyan"))))
  '(font-lock-string-face ((t (:foreground "deep pink"))))
