@@ -1,6 +1,6 @@
-;;; dark-mint-theme.el --- dark mint emacs theme
+;;; dark-mint-theme.el --- dark & minty fresh theme
 
-;; Copyright (C) 2015 by Shaun Viguerie
+;; Copyright (C) 2016 by Shaun Viguerie
 
 
 ;; This program is free software; you can redistribute it and/or modify
