@@ -60,8 +60,5 @@
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
-;; (set-frame-parameter (selected-frame) 'alpha '(90 90))
-;; (add-to-list 'default-frame-alist '(alpha 90 90))
-
 (provide-theme 'dark-mint)
 ;;; dark-mint-theme.el ends here
