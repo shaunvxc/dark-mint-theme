@@ -10,7 +10,7 @@ A dark & fresh looking theme for emacs
 
 ###Melpa
 - Install from the melpa repo. If you haven't already, you'll need to add the following to your `.emacs`:
-```EmacsLisp
+```Lisp
 (when (< emacs-major-version 24)
   ;; For important compatibility libraries like cl-lib
   (add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/")
@@ -24,7 +24,7 @@ A dark & fresh looking theme for emacs
 
 - To set as the default theme, add the following to your `.emacs` config file:
 
-```
+```Lisp
 (load-theme 'dark-mint)
 ```
 
@@ -35,6 +35,6 @@ A dark & fresh looking theme for emacs
 
 - To set as the default theme, add the following to your `.emacs` config file:
 
-```
+```Lisp
 (load-theme 'dark-mint t)
 ```
